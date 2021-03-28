@@ -1,6 +1,7 @@
 "You dont lose unless you think you have lost !"
                                                  - "**Be Optimistic**"
                                                                  - "Things do fall in place just be in there to grab it and not miss it rather !"
+- Be Optimistic
 
 - 👋 Hi, I’m Aniket, an Undergrad Junior majoring Computer Science.
 
