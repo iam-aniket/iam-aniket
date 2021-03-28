@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Aniket, an Undergrad Junior majoring Computer Science.
 
-- 👀 I’m interested in Android development and also an avid competitive programmer.(1904 on Codechef, Leetcode 150 Qs and counting...)
+- 👀 I’m interested in Android development and also an avid competitive programmer.(1904 on Codechef **(4 🌟)**, Leetcode 150 Qs **🌟** and counting...)
  
 - 🌱 I’m currently learning Blockchain development on creating smart contracts.
  
