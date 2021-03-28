@@ -1,4 +1,4 @@
-- 🏆 "You dont lose unless you think you have lost !" 🏆
+ 🏆 "You dont lose unless you think you have lost !" 🏆
 
  "**Be Optimistic**"
 
