@@ -15,7 +15,7 @@
  
 - 💞️ I’m looking to collaborate on Android / Blockchain / DSA Skills / Competitive Coding.
 
-- 📫 How to reach me : aniketgray@gmail.com / 6379305738
+- 📫 How to reach me : aniketgray@gmail.com
 
 <!---
 iam-aniket/iam-aniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
