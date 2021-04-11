@@ -18,9 +18,6 @@
 - 📫 How to reach me : aniketgray@gmail.com
 
 
-- opHello WORLD 
-
-
 
 <!---
 iam-aniket/iam-aniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
