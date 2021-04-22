@@ -15,8 +15,6 @@
 - 🌱 I’m currently learning Blockchain development on creating smart contracts.
  
 - 💞️ I’m looking to collaborate on Android / Blockchain / DSA Skills / Competitive Coding.
-- 
-
 
 - 📫 How to reach me : aniketgray@gmail.com
 
