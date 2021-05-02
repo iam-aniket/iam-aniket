@@ -8,22 +8,24 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-- 👋 Hi, I’m Aniket, an Undergrad Junior majoring Computer Science @ SASTRA .
 
-- 👀 I’m interested in Android development and also an avid competitive programmer.(1904 on Codechef **(4 🌟)**, Leetcode 170 Qs and counting...)
+- 👋 Hi, I’m Aniket, an Undergrad Junior majoring in Computer Science @ SASTRA.
+
+- 👀 I’m interested in Android development and also an avid competitive programmer. (1904 on Codechef **(4 🌟)**, Leetcode 170 Qs and counting...)
  
 - 🌱 I’m currently learning Blockchain development on creating smart contracts.
  
 - 💞️ I’m looking to collaborate on Android / Blockchain / DSA Skills / Competitive Coding.
 
-- 📫 How to reach me : aniketgray@gmail.com
+- 📫 How to reach me: aniketgray@gmail.com
 
 - 🤔 I’m looking for help with ... Job or Internship
+
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Instagram
+
 - 😄 Pronouns: ... He / Him
 
-Email - mukulphoughat@gmail.com [LinkedIn] : https://www.linkedin.com/in/mukul-phougat-602657193/ 
+[LinkedIn] : https://www.linkedin.com/in/aniketaniket/ 
 
 
 
