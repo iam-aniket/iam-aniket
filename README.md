@@ -17,7 +17,13 @@
 - 💞️ I’m looking to collaborate on Android / Blockchain / DSA Skills / Competitive Coding.
 
 - 📫 How to reach me : aniketgray@gmail.com
-- 
+
+- 🤔 I’m looking for help with ... Job or Internship
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... Instagram
+- 😄 Pronouns: ... He / Him
+
+Email - mukulphoughat@gmail.com [LinkedIn] : https://www.linkedin.com/in/mukul-phougat-602657193/ 
 
 
 
