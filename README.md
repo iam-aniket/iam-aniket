@@ -48,7 +48,7 @@ I’m a passionate software developer with **2 years of experience** in:
 - 🐦 [Twitter](https://twitter.com/anikettweeting)  
 - 💼 [LinkedIn](https://linkedin.com/in/aniketaniket)  
 - 🌐 [Portfolio](https://iamaniket.in)  
-- 📧 Email: your.aniketwf@gmail.com  
+- 📧 Email: aniketwf@gmail.com  
 
 ---
 
