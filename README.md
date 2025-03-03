@@ -6,7 +6,7 @@
 
 ### 🛠️ **About Me**  
 
-I’m a passionate software developer with **2 years of experience** in:  
+I’m a passionate software developer with **2.8 years of experience** in:  
 - 📱 **Native Android Development**  
    - Proficient in **Kotlin** and **Jetpack Compose** for building modern, responsive Android apps.  
    - Skilled in the **MVVM architecture** to maintain clean, modular, and testable codebases.  
